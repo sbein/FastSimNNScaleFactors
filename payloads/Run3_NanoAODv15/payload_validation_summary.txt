@@ -1,0 +1,101 @@
+model                                                                        object              global_max    global_mean 
+Validating eff_classifier_pMSSM_334_105076_GenElectron_default
+eff_classifier_pMSSM_334_105076_GenElectron_default                          Electron            1.2483e-06    3.2789e-08  
+Validating eff_classifier_pMSSM_334_105076_GenElectron_heep
+eff_classifier_pMSSM_334_105076_GenElectron_heep                             Electron            3.8762e-06    6.0715e-08  
+Validating eff_classifier_pMSSM_334_105076_GenElectron_loose
+eff_classifier_pMSSM_334_105076_GenElectron_loose                            Electron            3.7686e-06    4.1809e-08  
+Validating eff_classifier_pMSSM_334_105076_GenElectron_medium
+eff_classifier_pMSSM_334_105076_GenElectron_medium                           Electron            3.9680e-06    4.1198e-08  
+Validating eff_classifier_pMSSM_334_105076_GenElectron
+eff_classifier_pMSSM_334_105076_GenElectron                                  Electron            2.6394e-06    3.6188e-08  
+Validating eff_classifier_pMSSM_334_105076_GenElectron_tight
+eff_classifier_pMSSM_334_105076_GenElectron_tight                            Electron            4.3730e-06    4.0313e-08  
+Validating eff_classifier_pMSSM_334_105076_GenElectron_veto
+eff_classifier_pMSSM_334_105076_GenElectron_veto                             Electron            2.4943e-06    3.7259e-08  
+Validating eff_classifier_pMSSM_334_105076_GenElectron_wp80iso
+eff_classifier_pMSSM_334_105076_GenElectron_wp80iso                          Electron            1.1742e-06    4.3369e-08  
+Validating eff_classifier_pMSSM_334_105076_GenElectron_wp80noiso
+eff_classifier_pMSSM_334_105076_GenElectron_wp80noiso                        Electron            1.1775e-06    4.9552e-08  
+Validating eff_classifier_pMSSM_334_105076_GenElectron_wp90iso
+eff_classifier_pMSSM_334_105076_GenElectron_wp90iso                          Electron            1.2816e-06    4.1442e-08  
+Validating eff_classifier_pMSSM_334_105076_GenElectron_wp90noiso
+eff_classifier_pMSSM_334_105076_GenElectron_wp90noiso                        Electron            1.2992e-06    4.4524e-08  
+Validating eff_classifier_pMSSM_334_105076_GenLowPtElectron_conv_loose
+eff_classifier_pMSSM_334_105076_GenLowPtElectron_conv_loose                  LowPtElectron       1.7754e-07    1.0754e-08  
+Validating eff_classifier_pMSSM_334_105076_GenLowPtElectron_conv_tight
+eff_classifier_pMSSM_334_105076_GenLowPtElectron_conv_tight                  LowPtElectron       1.7754e-07    1.0754e-08  
+Validating eff_classifier_pMSSM_334_105076_GenLowPtElectron_conv_veto
+eff_classifier_pMSSM_334_105076_GenLowPtElectron_conv_veto                   LowPtElectron       1.2880e-06    6.8854e-08  
+Validating eff_classifier_pMSSM_334_105076_GenLowPtElectron_custom
+eff_classifier_pMSSM_334_105076_GenLowPtElectron_custom                      LowPtElectron       1.2880e-06    6.8854e-08  
+Validating eff_classifier_pMSSM_334_105076_GenLowPtElectron_default
+eff_classifier_pMSSM_334_105076_GenLowPtElectron_default                     LowPtElectron       1.2880e-06    6.8854e-08  
+Validating eff_classifier_pMSSM_334_105076_GenLowPtElectron_loose
+eff_classifier_pMSSM_334_105076_GenLowPtElectron_loose                       LowPtElectron       1.2880e-06    6.8854e-08  
+Validating eff_classifier_pMSSM_334_105076_GenLowPtElectron
+eff_classifier_pMSSM_334_105076_GenLowPtElectron                             LowPtElectron       1.2880e-06    6.8854e-08  
+Validating eff_classifier_pMSSM_334_105076_GenMuon_default
+eff_classifier_pMSSM_334_105076_GenMuon_default                              Muon                4.9279e-06    4.4600e-08  
+Validating eff_classifier_pMSSM_334_105076_GenMuon_highpt_global
+eff_classifier_pMSSM_334_105076_GenMuon_highpt_global                        Muon                6.8399e-06    4.3360e-08  
+Validating eff_classifier_pMSSM_334_105076_GenMuon_highpt_tracker
+eff_classifier_pMSSM_334_105076_GenMuon_highpt_tracker                       Muon                8.8998e-06    4.4366e-08  
+Validating eff_classifier_pMSSM_334_105076_GenMuon_loose
+eff_classifier_pMSSM_334_105076_GenMuon_loose                                Muon                4.9279e-06    4.4600e-08  
+Validating eff_classifier_pMSSM_334_105076_GenMuon_medium_prompt
+eff_classifier_pMSSM_334_105076_GenMuon_medium_prompt                        Muon                7.4694e-06    4.4358e-08  
+Validating eff_classifier_pMSSM_334_105076_GenMuon_medium
+eff_classifier_pMSSM_334_105076_GenMuon_medium                               Muon                7.3788e-06    4.2921e-08  
+Validating eff_classifier_pMSSM_334_105076_GenMuon_mva_medium
+eff_classifier_pMSSM_334_105076_GenMuon_mva_medium                           Muon                3.7865e-06    3.9293e-08  
+Validating eff_classifier_pMSSM_334_105076_GenMuon_mva_tight
+eff_classifier_pMSSM_334_105076_GenMuon_mva_tight                            Muon                5.4235e-06    4.4846e-08  
+Validating eff_classifier_pMSSM_334_105076_GenMuon_pfiso_loose
+eff_classifier_pMSSM_334_105076_GenMuon_pfiso_loose                          Muon                4.9279e-06    4.4600e-08  
+Validating eff_classifier_pMSSM_334_105076_GenMuon_pfiso_medium
+eff_classifier_pMSSM_334_105076_GenMuon_pfiso_medium                         Muon                6.6522e-06    4.1319e-08  
+Validating eff_classifier_pMSSM_334_105076_GenMuon_pfiso_tight
+eff_classifier_pMSSM_334_105076_GenMuon_pfiso_tight                          Muon                4.2712e-06    4.1058e-08  
+Validating eff_classifier_pMSSM_334_105076_GenMuon
+eff_classifier_pMSSM_334_105076_GenMuon                                      Muon                7.4834e-06    4.7746e-08  
+Validating eff_classifier_pMSSM_334_105076_GenMuon_softmva
+eff_classifier_pMSSM_334_105076_GenMuon_softmva                              Muon                3.9181e-06    4.7030e-08  
+Validating eff_classifier_pMSSM_334_105076_GenMuon_soft
+eff_classifier_pMSSM_334_105076_GenMuon_soft                                 Muon                5.1243e-06    4.6081e-08  
+Validating eff_classifier_pMSSM_334_105076_GenMuon_tight
+eff_classifier_pMSSM_334_105076_GenMuon_tight                                Muon                5.4427e-06    4.3408e-08  
+Validating eff_classifier_pMSSM_334_105076_GenPhoton_default
+eff_classifier_pMSSM_334_105076_GenPhoton_default                            Photon              1.3361e-06    3.5983e-08  
+Validating eff_classifier_pMSSM_334_105076_GenPhoton_loose
+eff_classifier_pMSSM_334_105076_GenPhoton_loose                              Photon              1.3361e-06    3.5983e-08  
+Validating eff_classifier_pMSSM_334_105076_GenPhoton_medium
+eff_classifier_pMSSM_334_105076_GenPhoton_medium                             Photon              3.7747e-06    3.5971e-08  
+Validating eff_classifier_pMSSM_334_105076_GenPhoton
+eff_classifier_pMSSM_334_105076_GenPhoton                                    Photon              1.3361e-06    3.5983e-08  
+Validating eff_classifier_pMSSM_334_105076_GenPhoton_tight
+eff_classifier_pMSSM_334_105076_GenPhoton_tight                              Photon              1.5496e-06    3.0652e-08  
+Validating eff_classifier_pMSSM_334_105076_GenPhoton_wp80
+eff_classifier_pMSSM_334_105076_GenPhoton_wp80                               Photon              2.0432e-06    3.4497e-08  
+Validating eff_classifier_pMSSM_334_105076_GenPhoton_wp90
+eff_classifier_pMSSM_334_105076_GenPhoton_wp90                               Photon              2.0778e-06    3.6380e-08  
+Validating eff_classifier_pMSSM_334_105076_GenTau_default
+eff_classifier_pMSSM_334_105076_GenTau_default                               Tau                 4.7669e-07    1.3752e-08  
+Validating eff_classifier_pMSSM_334_105076_GenTau_loose
+eff_classifier_pMSSM_334_105076_GenTau_loose                                 Tau                 6.5020e-07    1.2429e-08  
+Validating eff_classifier_pMSSM_334_105076_GenTau_medium
+eff_classifier_pMSSM_334_105076_GenTau_medium                                Tau                 4.8608e-07    1.2968e-08  
+Validating eff_classifier_pMSSM_334_105076_GenTau
+eff_classifier_pMSSM_334_105076_GenTau                                       Tau                 4.7669e-07    1.3752e-08  
+Validating eff_classifier_pMSSM_334_105076_GenTau_tight
+eff_classifier_pMSSM_334_105076_GenTau_tight                                 Tau                 5.0392e-07    1.2338e-08  
+Validating eff_classifier_pMSSM_334_105076_GenTau_vloose
+eff_classifier_pMSSM_334_105076_GenTau_vloose                                Tau                 4.7669e-07    1.3752e-08  
+Validating eff_classifier_pMSSM_334_105076_GenTau_vtight
+eff_classifier_pMSSM_334_105076_GenTau_vtight                                Tau                 5.4472e-07    1.1753e-08  
+Validating eff_classifier_pMSSM_334_105076_GenTau_vvloose
+eff_classifier_pMSSM_334_105076_GenTau_vvloose                               Tau                 4.7669e-07    1.3752e-08  
+Validating eff_classifier_pMSSM_334_105076_GenTau_vvtight
+eff_classifier_pMSSM_334_105076_GenTau_vvtight                               Tau                 9.2326e-07    1.1542e-08  
+Validating eff_classifier_pMSSM_334_105076_GenTau_vvvloose
+eff_classifier_pMSSM_334_105076_GenTau_vvvloose 
