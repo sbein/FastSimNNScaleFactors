@@ -21,14 +21,14 @@ p10 = fast_matched=1, full_matched=0
 p01 = fast_matched=0, full_matched=1
 p00 = fast_matched=0, full_matched=0
 
-Derived quantities:
+Derived quantities - third one is "the scale factor":
 
 eff_fast = p11 + p10
 eff_full = p11 + p01
 sf_full_over_fast = eff_full / eff_fast
 
-Validation summary:
+Validation summary (pytorch vs lwtnn@correctionLib evalution):
 
 payloads/Run3_NanoAODv15/payload_validation_summary.txt
 
-Status: prototype payload set.
+Result is only floating point-level precision differences.
