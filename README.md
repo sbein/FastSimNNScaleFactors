@@ -10,8 +10,8 @@ payloads/Run3_NanoAODv15_correctionlib/
 ```
 
 The `Run3_NanoAODv15_correctionlib` payloads are the analyst-facing correctionlib
-wrappers around the standalone LWTNN JSON files. They take raw matched
-generator-particle `pt`, `eta`, `phi`, and `iso`; the correction handles the
+wrappers around the standalone LWTNN JSON files. They take matched `GenPart_pt`,
+`GenPart_eta`, `GenPart_phi`, and `GenPart_iso`; the correction handles the
 internal `log10(pt)` and `log10(iso)` preprocessing.
 
 For a minimal correctionlib example, see:
@@ -20,13 +20,19 @@ For a minimal correctionlib example, see:
 examples/example_correctionlib_electron.py
 ```
 
+The example can loop over a tiny 3-event TTbar FastSim NanoAOD file:
+
+```text
+examples/data/ttbar_fastsim_nano_3events.root
+```
+
 The models use four preprocessed generator-level inputs:
 
 ```text
 pt_log10  = log10(max(gen_pt, 1e-4))
 eta       = gen_eta
 phi       = gen_phi
-iso_log10 = log10(max(gen_iso, 1e-6))
+iso_log10 = log10(max(GenPart_iso, 1e-6))
 ```
 
 Outputs are:
